@@ -6,9 +6,9 @@
 * 🔺- عوفه مفتوح وفتح ترمنال لاخ وخلي 👇
 * sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 * 🔺- وراهه 👇
-* git clone https://github.com/moodlIMyIl/DEVTSHAKE.git
+* git clone https://github.com/byanahmed/hero2s24.git
 * 🔺- وراهه👇
-* cd DEVTSHAKE
+* cd hero2s24
 * 🔺- وراهه👇
 * chmod +x launch.sh
 * 🔺- وراهه👇
